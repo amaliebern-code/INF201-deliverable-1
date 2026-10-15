@@ -1,0 +1,6 @@
+station_id: SN17850
+year: 2025
+element: max(air_temperature P1D)
+heatwave_threshold_temp_celsius: 27
+min_consecutive_days: 5
+number_of_heatwaves: 1
